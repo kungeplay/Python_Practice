@@ -1,0 +1,11 @@
+Hello,everyone!
+123456
+This is a test doc!
+这是一个测试文档，被read_practice.py使用
+看看使用输入方法如read()或者readlines()从文件中读取行时，Python并不会删除行结束符
+加油，刘佳坤
+生活，感情，学习有所收获
+1;2R
+
+
+

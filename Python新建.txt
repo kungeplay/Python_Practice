@@ -1,0 +1,47 @@
+
+标题：
+<DIV class="titArea r-bac pos-r">
+        <A href="/47958053.html" class="inlineBlock" target="_blank"><H1 class="c333 subTitle" style="color: #000;">直播：我女友在KTV做包间公主，说点不为人知的内幕给你们听。</H1></A>
+    </DIV>
+
+标题,就第一页有标题
+<H1 class="c333 subTitle" style="color: #fd8bbd;">我来讲一讲一群东北混子的事</H1>
+
+http://dzh.mop.com/47504930_1.html?from=3&Stop=96&SKind=1&Stop=96&SKind=1&master=1#reply-begin
+http://dzh.mop.com/47504930_2.html?from=3&Stop=96&SKind=1&Stop=96&SKind=1&master=1#reply-begin
+http://dzh.mop.com/47504930_3.html?from=3&Stop=96&SKind=1&Stop=96&SKind=1&master=1#reply-begin
+http://dzh.mop.com/47504930_4.html?from=3&Stop=96&SKind=1&Stop=96&SKind=1&master=1#reply-begin
+
+内容：有的div里包括<p>有的不包括
+
+<div class="mt10 inner-txt fs14 mt15 lh22">第十一章 下海</div>
+
+<div class="mt10 inner-txt fs14 mt15 lh22"><p> 陈铁柱伤好以后，被煤矿开除。陈铁柱之所以没被判刑，自然是因为他有个当刑警队队长的表哥李国东。 </p> 
+<p> 失去工作的陈铁柱曾经跟沈天凤有这样的对话。 </p> 
+<p> &nbsp;“我现在也没工作，不能靠你养着。我哥他们在冷库上班的时候，说卖肉也挺赚钱的，不比上班赚的少，要不我去矿上，卖肉去，你看咋样？”陈铁柱跟沈天风商量。 </p> 
+<p> 在八十年代初，丢了工作实在是个很丢人的事。干个体户，则更丢人。 </p> 
+<p> 甚至有的人提着个篮子从这个村到那个村子去卖一筐鸡蛋，运气不好的时候都会被扣上投机倒把的罪名，给抓起来。 </p> 
+<p> &nbsp;听了陈铁柱的话，沈天风有点犹豫，她知道陈铁柱极好面子。她担心陈铁柱到矿上卖肉，被原来那些工友笑话。 </p> 
+<p> &nbsp;“行是行，我就是怕你面子上挂不住。”沈天凤说 </p></div>
+
+
+
+                                <div class="mt10 inner-txt fs14 mt15 lh22"><p> &nbsp;“我没事，主要是你不觉得我丢人就行。”陈铁柱知道，沈天凤跟自己在一起，也要承受不少压力。 </p> 
+<p> “那丢啥人，咱一不偷，二不抢，再说，听说国家现在也允许做买卖了。”沈天凤安慰着自己的男人。 </p> 
+<p> “好，那就去。”陈铁柱做了决定。 </p> 
+<p> 把肉摊摆在了矿区的门口。就这样，陈铁柱阴错阳差，成了红旗市第一批“下海”的人。 </p> 
+<p> 在80年代初，”下海”这个词汇,在南方大地上，已经成了时髦的象征。但在远处东北一隅的红旗市，恐怕没几个人知道这个词。 </p> 
+<p> 和南方不少知识分子，机关干部“东西南北中，发财到广东”的豪迈离职去做生意不同，陈铁柱是被迫的。 </p> 
+<p> &nbsp;“四哥，卖肉呢。”矿上熟悉的工人跟陈铁柱打招呼，因为陈铁柱在家行四，所以大家都尊称他为四哥。 </p> 
+<p> “恩……啊……”见到熟人，陈铁柱挺不好意思，哼哼哈哈的想要含糊过去。 </p> 
+<p> “哎呀，我家都挺长时间没吃肉了。” </p></div
+
+
+
+
+
+
+页数：
+
+                        <a style="cursor: pointer;" class="m-page-i fl" href="    /47504930_7.html?from=3&Stop=96&SKind=1&Stop=96&SKind=1&master=1#reply-begin" rel="7">(.*?)</a>.*?<a style="cursor: pointer;" class="m-page-down fl" href="    /47504930_2.html?from=3&Stop=96&SKind=1&Stop=96&SKind=1&master=1#reply-begin" rel="2">下一页</a>
+ <a style="cursor: pointer;" class="m-page-i fl" href=".+?" rel="%d">(.+?)</a>.+?<a style="cursor: pointer;" class="m-page-down fl" href=".+?" rel="\d">下一页</a>

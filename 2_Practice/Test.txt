@@ -1,0 +1,33 @@
+Port 9999
+RTSPPort 9990
+BindAddress 0.0.0.0
+MaxClients 1000
+MaxBandwidth 100000
+CustomLog -
+
+
+<Feed feed1.ffm>
+File /tmp/feed1.ffm
+FileMaxSize 40K
+Launch ./ffmpeg -v 0 -y -f pgmyuv -i tests/vsynth1/%02d.pgm
+ACL allow localhost
+</Feed>
+
+<Stream test.flv>
+Feed feed1.ffm
+Format flv
+#一下指定输出流的编码信息
+BitExact
+DctFastint
+IdctSimple
+VideoFrameRate 2
+VideoSize 320x240
+VideoBitRate 64
+VideoGopSize 10
+NoAudio
+
+PreRoll 10
+StartSendOnKey
+MaxTime 100
+
+</Stream>
